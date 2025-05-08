@@ -5,6 +5,7 @@
 [Visit the app](https://translate.mom) • [Follow the bot on X](https://x.com/translatemom)
 
 ---
+<img width="1688" alt="Screenshot 2025-05-08 at 3 07 53 PM" src="https://github.com/user-attachments/assets/9e1a1495-72fc-4fe7-882d-d3a8a01afa8f" />
 
 ## What is it?
 
